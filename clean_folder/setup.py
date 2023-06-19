@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='clean_folder',
-      version='0.1.1',
+      version='1.0.0',
       description='Cleaning and sorting service.',
       url='https://github.com/Draugrimar/py_core_07',
       author='Draugrimar',
